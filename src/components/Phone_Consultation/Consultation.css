@@ -1,0 +1,44 @@
+.container {
+    margin-top: 5rem;
+}
+
+.table {
+   
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 8px;
+}
+
+.expandable {
+    cursor: pointer;
+    /* background-color: #f9f9f9; */
+}
+
+.expandable:hover {
+    background-color: #f1f1f1;
+}
+
+.hidden-row {
+    background-color: #f9f9f9;
+}
+
+.extra-info {
+    padding: 10px;
+}
+.row1{
+    text-align: left;
+}
+.booking{
+    margin-top: 20px;
+}
+.booking1{
+    padding-top: 10px;
+}
+.row2{
+    
+}
